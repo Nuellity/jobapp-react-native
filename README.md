@@ -30,7 +30,7 @@ The JobSearch App is a mobile application built with Expo and React Native, desi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/jobsearch-app.git
+git clone https://github.com/Nuellity/jobapp-react-native.git
 ```
 
 2. Navigate to the project directory:
